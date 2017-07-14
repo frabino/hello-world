@@ -1,0 +1,23 @@
+{
+  "name": "hello1",
+  "version": "1.0.0",
+  "description": "prime prove tutorial w3c",
+  "main": "datario.js",
+  "scripts": {
+    "start": "node hello.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://frabino:FraHub77@github.com/frabino/hello-world.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Francesca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frabino/hello-world/issues"
+  },
+  "homepage": "https://github.com/frabino/hello-world#readme"
+}
