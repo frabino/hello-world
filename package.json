@@ -4,7 +4,7 @@
   "description": "prime prove tutorial w3c",
   "main": "datario.js",
   "scripts": {
-    "start": "node hello.js"
+    "start": "node hello.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
